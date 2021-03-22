@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\bin\Debug\NumberToWords.exe.config
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\bin\Debug\NumberToWords.exe
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\bin\Debug\NumberToWords.pdb
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\obj\Debug\NumberToWords.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\obj\Debug\NumberToWords.Form1.resources
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\obj\Debug\NumberToWords.Properties.Resources.resources
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\obj\Debug\NumberToWords.csproj.GenerateResource.cache
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\obj\Debug\NumberToWords.exe
+D:\Documents\Visual Studio Projects\SE Test Vesperia\NumberToWords\obj\Debug\NumberToWords.pdb
